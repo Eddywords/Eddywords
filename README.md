@@ -12,3 +12,7 @@
 ## 🛠 Skills
 Javascript, Git, Github, HTML, CSS...
 
+
+## 🚀 About Me
+I'm a dedicated, tenacious frontend developer
+
